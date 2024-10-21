@@ -13,10 +13,11 @@
 
 ### Eficiencia operativa
 
-1. Ejecutar
-2. Supervisar sistemas
+1. Implementar sistemas
+2. Ejecutar, operar el sistema
+3. Supervisar sistemas
 
-Implementado, actualizado y en operacion
+[Documento tecnico sobre excelencia operativa) [https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf]
 
 ### Optimizacion de costos
 
