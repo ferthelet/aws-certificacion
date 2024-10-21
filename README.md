@@ -47,5 +47,13 @@
 
 ### Sostenibilidad
 
+1. Comprender el impacto
+2. Establecer objetivos de sostenibilidad
+3. Maximizar la utilizacion
+4. Anticipar y adoptar nuevas tecnologias mas eficientes
+5. Reducir el impacto descendente de sus cargas de trabajo en la nube
+
+[Documento del pilar de sostenbilidad](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
+
 
 
