@@ -4,14 +4,19 @@
 
 ### Excelencia operativa
 
-- Base de identidad
-- Trazabilidad
-- Seguridad en todas las capas
-- Evaluacion de riesgos
+1. Base de identidad
+2. Trazabilidad
+3. Seguridad en todas las capas
+4. Evaluacion de riesgos
   
 ### Confiabilidad
 
 ### Eficiencia operativa
+
+1. Ejecutar
+2. Supervisar sistemas
+
+Implementado, actualizado y en operacion
 
 ### Optimizacion de costos
 
