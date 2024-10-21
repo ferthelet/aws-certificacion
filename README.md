@@ -15,6 +15,14 @@
 
 ### Confiabilidad
 
+1. Recuperarse con rapidez de errores en la infra o interrupciones de servicio
+2. Adquirir dinamicamente los recursos TI para satisfacer la demanada
+3. Mitigar interrupciones
+   - errores de configuracion
+   - problemas transitorios de red
+  
+[Documento tecnico sobre confiabilidad] (https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
+
 ### Eficiencia operativa
 
 1. Implementar sistemas
