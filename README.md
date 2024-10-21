@@ -11,7 +11,13 @@
 
 [Documento tecnico sobre seguridad] ([https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
 
-### Excelencia operativa
+### Eficiencia del rendimiento
+
+1. Elegir recuros eficientes y mantener la eficiencia con los cambios de la demanda
+2. Democratixzar las tecnologias avanzadas
+3. Emplear la "compatiibilidad mecanica", por ejemplo tener en cuenta los patrones de acceso cuando se implementa una BBDD
+
+[Documento tecnico sobre eficiencia del rendimiento] (https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
 
 ### Confiabilidad
 
@@ -23,7 +29,7 @@
   
 [Documento tecnico sobre confiabilidad] (https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
 
-### Eficiencia operativa
+### Excelencia operativa
 
 1. Implementar sistemas
 2. Ejecutar, operar el sistema
