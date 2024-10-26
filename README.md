@@ -61,4 +61,16 @@
 [Documento del pilar de sostenbilidad](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
 
 
+## Consideracion de disenio
+
+- Habilite escalabilidad
+- Automatice su entorno
+- Trate los recursos como desechables
+- Utilice componentes de acoplamiento debil
+- Disenie servicios, no servidores
+- Elija la solucion de bbdd adecuada
+- Minimice los puntos unicos de error
+- Optimice el costo
+- Use el almacenamiento en cache
+- Proteja la infrastructura completa
 
