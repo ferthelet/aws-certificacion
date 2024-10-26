@@ -9,7 +9,7 @@
 3. Seguridad en todas las capas
 4. Evaluacion de riesgos
 
-[Documento tecnico sobre seguridad](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
+[Documento tecnico sobre seguridad](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
 
 ### Eficiencia del rendimiento
 
@@ -17,7 +17,7 @@
 2. Democratixzar las tecnologias avanzadas
 3. Emplear la "compatiibilidad mecanica", por ejemplo tener en cuenta los patrones de acceso cuando se implementa una BBDD
 
-[Documento tecnico sobre eficiencia del rendimiento](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html)
+[Documento tecnico sobre eficiencia del rendimiento](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
 
 ### Confiabilidad
 
@@ -27,7 +27,7 @@
    - errores de configuracion
    - problemas transitorios de red
   
-[Documento tecnico sobre confiabilidad](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
+[Documento tecnico sobre confiabilidad](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
 
 ### Excelencia operativa
 
@@ -35,7 +35,7 @@
 2. Ejecutar, operar el sistema
 3. Supervisar sistemas
 
-[Documento tecnico sobre excelencia operativa](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html)
+[Documento tecnico sobre excelencia operativa](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
 
 ### Optimizacion de costos
 
@@ -43,7 +43,7 @@
 2. Eliminar gastos innecesarios
 3. Considerar el uso de servicios adminsitrados
 
-[Documento tecnico sobre optimizacion de costos](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
+[Documento tecnico sobre optimizacion de costos](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
 
 ### Sostenibilidad
 
