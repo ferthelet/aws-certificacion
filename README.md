@@ -9,7 +9,7 @@
 3. Seguridad en todas las capas
 4. Evaluacion de riesgos
 
-[Documento tecnico sobre seguridad]([https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
+[Documento tecnico sobre seguridad](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 
 ### Eficiencia del rendimiento
 
