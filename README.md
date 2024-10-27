@@ -5,7 +5,7 @@
 - El marco AWF proporciona un enfoque coherente para evaluar arquitecturas de nube y orientacion para implementar disenios
 - AWF se organiza en 6 pilares: seguridad, eficiencia del rendimiento, confiabilidad, excelencia operativa, optimizacion de costos y sustentabilidad
 - Cada pilar documenta una serie de preguntas basicas  que le permiten comprender si una arquitecturta determinada esta alineada con las practicas recomendadas de la nube
-- Permite revisar el estado de las cargas de trabajo y las compara con las practicas recomendada mas recientes de AWS
+- El AWS Well-Architected Tool permite revisar el estado de las cargas de trabajo y las compara con las practicas recomendada mas recientes de AWS
 
 ### Seguridad
 
